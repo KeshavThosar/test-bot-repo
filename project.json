@@ -2,11 +2,7 @@
   "name": "New Process for Testing Jenkins",
   "description": "Blank Process",
   "main": "Main.xaml",
-  "dependencies": {
-    "UiPath.Excel.Activities": "[2.11.4]",
-    "UiPath.System.Activities": "[21.10.5]",
-    "UiPath.UIAutomation.Activities": "[21.10.7]"
-  },
+  "dependencies": {},
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
